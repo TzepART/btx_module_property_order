@@ -16,4 +16,4 @@ After ustvnovki you can connect the module anywhere using:
 
 It is also possible to add or remove a property on the page in the administrative section of the site.
 
-![ScreenShot](http://joxi.ru/zANaGezclgXxP2)
+![ScreenShot](/admin.png)
