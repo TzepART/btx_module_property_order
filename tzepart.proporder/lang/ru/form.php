@@ -1,0 +1,4 @@
+<?
+$MESS['TZEPART_PROPORDER_PROPERTY_ADD'] = "Добавить";
+
+
